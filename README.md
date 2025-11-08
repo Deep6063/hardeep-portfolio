@@ -60,4 +60,3 @@ hardeep-portfolio/
 ## License
 
 © 2024 Hardeep Singh. All rights reserved.
-
