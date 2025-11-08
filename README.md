@@ -18,7 +18,7 @@ A modern, responsive portfolio website showcasing my experience in network admin
 
 ## Live Website
 
-Visit the live site: [https://syal00.github.io/hardeep-portfolio/](https://syal00.github.io/hardeep-portfolio/)
+Visit the live site: [https://hardeepsingh6063.github.io/hardeep-portfolio/](https://hardeepsingh6063.github.io/hardeep-portfolio/)
 
 ## Local Development
 
@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/syal00/hardeep-portfolio.git
+git clone https://github.com/hardeepsingh6063/hardeep-portfolio.git
 ```
 
 2. Navigate to the project directory:
